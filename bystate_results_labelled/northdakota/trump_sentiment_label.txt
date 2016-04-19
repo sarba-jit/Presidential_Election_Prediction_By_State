@@ -1,0 +1,2 @@
+positiveness: 28
+negativeness: 4

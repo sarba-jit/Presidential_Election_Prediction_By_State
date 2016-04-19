@@ -1,0 +1,2 @@
+positiveness: 512
+negativeness: 89
